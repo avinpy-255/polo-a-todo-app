@@ -9,8 +9,7 @@ function App() {
 
       <div>
         <Navbar/>
-        <CreateTodo/>
-        <ViewTodo/>  
+        <CreateTodo/>  
       </div>
 
    
